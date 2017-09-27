@@ -6,10 +6,10 @@ import requests
 import json
 import time
 
-
 # -------- send request by urllib --------
 
 def urllib_request():
+
     params = urllib.parse.urlencode({'uniqueid':11111111111})
     url = 'http://202.104.134.108:8008/exam/progress/?%s' % params
     req = urllib.request.Request(url)
