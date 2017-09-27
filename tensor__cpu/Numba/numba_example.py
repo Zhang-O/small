@@ -24,7 +24,6 @@ def mandel(x, y, max_iters):
     for i in range(max_iters):
         z = z*z + c
         if (z.real*z.real + z.imag*z.imag) >= 4:
-            print(i)
             return i
 
     return 255
