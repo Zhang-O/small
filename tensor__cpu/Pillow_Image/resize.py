@@ -30,5 +30,4 @@ def resize_img(rpath, wpath, filename):
 
 for file in os.listdir(read_dir):
 
-
     resize_img(read_dir, write_dir, file)
