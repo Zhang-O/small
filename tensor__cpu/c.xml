@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope
+xmlns:soapenv = "http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:xsd = "http://www.w3.org/2001/XMLSchema"
+xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance">
+<soapenv:Body>
+<ns1:gradeEssay soapenv:encodingStyle =
+"http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns1 = "urn:Intellimetric">
+<ireq href = "#id0"/>
+</ns1:gradeEssay>
+<multiRef
+id = "id0"
+soapenc:root = "0"
+soapenv:encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/"
+xsi:type = "ns2:Request"
+xmlns:soapenc = "http://schemas.xmlsoap.org/soap/encoding/"
+xmlns:ns2 = "urn:Intellimetric">
+<studentID xsi:type = "soapenc:string">example</studentID>
+<essayResponseID xsi:type = "soapenc:string"></essayResponseID>
+<promptCode xsi:type = "soapenc:string">hn04lw6</promptCode>
+<processTime href = "#id1"/>
+<essayText xsi:type = "soapenc:string">
+Most of people in my family admired my grandmother when she was
+alive. She was working hard to find money to raise her 5 children and never
+asked my grandfather a penny. At her age, when everybody thought that
+women should stay home to take care of their children, she already went out to
+have a job. Looking at my grandmother and i have my own thinking is : Men
+and women are equal. If women can work like men , men have to do
+housework like women. Everybody need to share responsibility in the house.
+We live in twenty-first century and we must think live new people.
+There are a lot of women do great jobs and are well-known. Certainly,
+everybody knows Hillary Clinton, a woman, talks like political men and works
+hard like them. Madona, popular singer, is more popular than most of mensingers. Go back to our science history, we saw Marie-Curie who found out the
+nuclear theory and gave to our science a huge profit like other science. For
+sure that all of these women have to do their housework when they have free
+time.So, why women can do great work and men can't do housework???
+</essayText>
+<returnEssay href = "#id2"/>
+<synchMode href = "#id3"/>
+<errorText xsi:type = "soapenc:string" xsi:nil = "true"/>
+<key xsi:type = "soapenc:string">demokey</key>
+<result xsi:type = "ns2:Result" xsi:nil = "true"/>
+<urlString xsi:type =
+"soapenc:string">http://192.168.4.117:9090/iws/services/Intellimetric</urlString
+>
+<method xsi:type = "soapenc:string">gradeEssay</method>
+</multiRef>
+<multiRef
+id = "id1"
+soapenc:root = "0"
+soapenv:encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/"
+xsi:type = "xsd:float"
+xmlns:soapenc =
+"http://schemas.xmlsoap.org/soap/encoding/">0.0</multiRef>
+<multiRef
+id = "id2"
+soapenc:root = "0"
+soapenv:encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/"
+xsi:type = "xsd:int"
+xmlns:soapenc =
+"http://schemas.xmlsoap.org/soap/encoding/">0</multiRef>
+<multiRef
+id = "id3"
+soapenc:root = "0"
+soapenv:encodingStyle = "http://schemas.xmlsoap.org/soap/encoding/"
+xsi:type = "xsd:int"
+xmlns:soapenc =
+"http://schemas.xmlsoap.org/soap/encoding/">0</multiRef>
+</soapenv:Body>
+</soapenv:Envelope>
