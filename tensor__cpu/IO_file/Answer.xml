@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Utf-8"?>
+<AnswerInfo>
+	<ExamInfo>
+		<StudentID>16200203</StudentID>
+		<StudentName>奚豪杰</StudentName>
+		<StudentSex>1</StudentSex>
+		<PaperNo>PAPER-53453</PaperNo>
+		<PaperName>1月宁波模考试题15</PaperName>
+		<PaperFileName>1月宁波模考试题15.ksj</PaperFileName>
+		<SeatID>47</SeatID>
+		<LocalName>S003</LocalName>
+		<LocalIP>10.44.11.3</LocalIP>
+		<ExamDateTime>2018-01-21 11:03:36</ExamDateTime>
+		<ExamTimeID>21</ExamTimeID>
+		<TestRecordFile>TestRecord.mp3</TestRecordFile>
+		<RecordFileCount>4</RecordFileCount>
+		<AheadFinish>0</AheadFinish>
+		<ForceFinish/>
+		<PageIndex>19</PageIndex>
+		<OptionIndex>4</OptionIndex>
+		<GiveupExam>0</GiveupExam>
+		<IsNullAudio/>
+		<HeadsetSN>HP-E1L004946</HeadsetSN>
+		<NullFile/>
+	</ExamInfo>
+	<QuestionTypeList><QuestionType><NO>QTYONESEL</NO><Name>单选</Name></QuestionType><QuestionType><NO>QTYMULTISEL</NO><Name>多选</Name></QuestionType><QuestionType><NO>QTYFILL</NO><Name>填空</Name></QuestionType><QuestionType><NO>QTYJUDGE </NO><Name>判断</Name></QuestionType><QuestionType><NO>QTYSPOKEN</NO><Name>口语</Name></QuestionType><QuestionType><NO>QTYVIDEO</NO><Name>视频跟读</Name></QuestionType><QuestionType><NO>QTYLINE</NO><Name>连线</Name></QuestionType><QuestionType><NO>QTYSIMPLE</NO><Name>文字简答</Name></QuestionType><QuestionType><NO>QTYCOMPOSE</NO><Name>文字作文</Name></QuestionType></QuestionTypeList>
+	<SectionList><Section><NO>BQT-707852</NO><Name>第一部分</Name><ParentNo>0</ParentNo></Section><Section><NO>BQT-68489</NO><Name>第二部分</Name><ParentNo>0</ParentNo></Section><Section><NO>BQT-774550</NO><Name>第三部分</Name><ParentNo>0</ParentNo></Section><Section><NO>BQT-415584</NO><Name>第四部分</Name><ParentNo>0</ParentNo></Section><Section><NO>BQT-856348</NO><Name>第五部分</Name><ParentNo>0</ParentNo></Section><Section><NO>BQT-508632</NO><Name>第六部分</Name><ParentNo>0</ParentNo></Section></SectionList>
+	<QuestionList><Question><NO>QT-50105</NO><Name>1-1</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-707852</SectionNO><Answer>C</Answer><Value>4</Value><CheckResult></CheckResult></Question><Question><NO>QT-531471</NO><Name>1-2</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-707852</SectionNO><Answer>B</Answer><Value>2</Value><CheckResult></CheckResult></Question><Question><NO>QT-7090</NO><Name>1-3</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-707852</SectionNO><Answer>A</Answer><Value>1</Value><CheckResult></CheckResult></Question><Question><NO>QT-34900</NO><Name>1-4</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-707852</SectionNO><Answer>A</Answer><Value>1</Value><CheckResult></CheckResult></Question><Question><NO>QT-998397</NO><Name>1-5</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-707852</SectionNO><Answer>C</Answer><Value>4</Value><CheckResult></CheckResult></Question><Question><NO>QT-843901</NO><Name>2-1</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-68489</SectionNO><Answer>B</Answer><Value>2</Value><CheckResult></CheckResult></Question><Question><NO>QT-675995</NO><Name>2-2</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-68489</SectionNO><Answer>A</Answer><Value>1</Value><CheckResult></CheckResult></Question><Question><NO>QT-610311</NO><Name>2-3</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-68489</SectionNO><Answer>A</Answer><Value>1</Value><CheckResult></CheckResult></Question><Question><NO>QT-341295</NO><Name>2-4</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-68489</SectionNO><Answer>C</Answer><Value>4</Value><CheckResult></CheckResult></Question><Question><NO>QT-182505</NO><Name>2-5</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-68489</SectionNO><Answer>C</Answer><Value>4</Value><CheckResult></CheckResult></Question><Question><NO>QT-365475</NO><Name>3-1</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-774550</SectionNO><Answer>C</Answer><Value>4</Value><CheckResult></CheckResult></Question><Question><NO>QT-481784</NO><Name>3-2</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-774550</SectionNO><Answer>B</Answer><Value>2</Value><CheckResult></CheckResult></Question><Question><NO>QT-197738</NO><Name>3-3</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-774550</SectionNO><Answer>A</Answer><Value>1</Value><CheckResult></CheckResult></Question><Question><NO>QT-262801</NO><Name>3-4</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-774550</SectionNO><Answer>B</Answer><Value>2</Value><CheckResult></CheckResult></Question><Question><NO>QT-509325</NO><Name>3-5</Name><TypeNO>QTYONESEL</TypeNO><SectionNO>BQT-774550</SectionNO><Answer>B</Answer><Value>2</Value><CheckResult></CheckResult></Question><Question><NO>QT-562662</NO><Name>4</Name><TypeNO>QTYSPOKEN</TypeNO><SectionNO>BQT-415584</SectionNO><Answer>QT-562662ans.mp3</Answer><Value/><CheckResult>0</CheckResult></Question><Question><NO>QT-960341</NO><Name>5-1</Name><TypeNO>QTYSPOKEN</TypeNO><SectionNO>BQT-856348</SectionNO><Answer>QT-960341ans.mp3</Answer><Value/><CheckResult>0</CheckResult></Question><Question><NO>QT-354093</NO><Name>5-2</Name><TypeNO>QTYSPOKEN</TypeNO><SectionNO>BQT-856348</SectionNO><Answer>QT-354093ans.mp3</Answer><Value/><CheckResult>0</CheckResult></Question><Question><NO>QT-37370</NO><Name>6</Name><TypeNO>QTYSPOKEN</TypeNO><SectionNO>BQT-508632</SectionNO><Answer>QT-37370ans.mp3</Answer><Value/><CheckResult></CheckResult></Question></QuestionList>
+</AnswerInfo>
