@@ -1,0 +1,8 @@
+dbIP=10.33.2.121
+dbname=AIScore
+dbuser=root
+dbpsd=123456
+dbport=3306
+processNum=50
+run_user=t91
+lm_other=nb_allret

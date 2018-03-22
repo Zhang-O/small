@@ -77,7 +77,7 @@ def requests_post(num):
 
 
 
-import requests,json
+
 def requests_post1():
     url = 'http://202.104.134.107:8008/voice/posttest/'
     headers = {"Content-Type": "application/json"}

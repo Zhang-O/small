@@ -44,5 +44,5 @@ jx = fig.add_subplot(5, 5, 10)
 jx.plot(x, np.log(x))
 
 
-
+# plt.cla()
 plt.show()
